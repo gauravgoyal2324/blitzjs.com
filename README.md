@@ -1,4 +1,5 @@
-# Blitzjs.com - Website & Docs
+# Blitzjs.com -  An amazing Website & Docs fir u all 
+<br> you will learn many things here
 
 ## Website
 
